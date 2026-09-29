@@ -7,6 +7,7 @@ public:
 	int draw;
 	static int score;
 	//ä÷êî
+	PLAYER();
 	void Player_INPUT_Check();
 	void Player_DRAW();
 };
